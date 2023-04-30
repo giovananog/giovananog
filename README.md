@@ -40,7 +40,5 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/haskell/haskell-original.svg" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/latex/latex-original.svg" width="40" height="40"/>
   
  </div>
