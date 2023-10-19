@@ -27,6 +27,11 @@
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Wordpress.svg" width="40" height="40"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Blender-Dark.svg" width="40" height="40"/>
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Dark.svg" width="40" height="40"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Haskell-Dark.svg" width="40" height="40"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="40" height="40"/>
+    
+    
+
 </div>
 
 
