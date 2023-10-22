@@ -1,21 +1,15 @@
-## Contato
+## Technologies
 <div align="center">
-    <a href="https://www.linkedin.com/in/giovana-nogueira-oliveira-144401243" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white height="115">
-    </a>
+    <img src="https://skillicons.dev/icons?i=html,js,css">
+</div>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,r,haskell,py">
 </div>
 
-
-## Ferramentas
+## Tools
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,mysql,blender,vscode,wordpress,flask">
+    <img src="https://skillicons.dev/icons?i=git,mysql,vscode,wordpress,flask">
 </div>
-
-## Tecnologias
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,r,js,haskell,py">
-</div>
-
 
 ## Github Stats
 <div align="center">
