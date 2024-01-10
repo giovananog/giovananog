@@ -3,7 +3,7 @@
     <img src="https://skillicons.dev/icons?i=html,js,css">
 </div>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,r,haskell,py">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,r,py">
 </div>
 
 ## Tools
