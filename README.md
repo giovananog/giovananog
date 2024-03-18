@@ -19,6 +19,7 @@
 ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
 ![Node](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=nodedotjs)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+<br>
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
