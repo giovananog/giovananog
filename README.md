@@ -53,6 +53,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/giovana-nogueira-oliveira)](www.linkedin.com/in/giovana-nogueira-oliveira)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/giovana-nogueira-oliveira)](https://www.linkedin.com/in/giovana-nogueira-oliveira)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ongiovana2016@gmail.com)](mailto:ongiovana2016@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/giovananog?label=follow&style=social)](https://github.com/giovananog)
