@@ -1,13 +1,13 @@
 ![](https://komarev.com/ghpvc/?username=giovananog&color=006bed)
 
-## Sobre mim
+## About Me
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Ciência da Computação na Universidade Federal de Alfenas.
+- 🤔 Exploring new technologies and developing software solutions.
+- 🎓 Studying Computer Science at the Federal University of Alfenas.
 
-## Minhas Skills
+## My Skills
 
-**Aplicações e dados**
+**Applications and Data**
 
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
@@ -24,12 +24,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
-
-
-
-
-
-**Utilidades**
+**Utilities**
 
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
@@ -39,7 +34,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
-**Ferramentas de desenvolvimento**
+**Development Tools**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
@@ -47,11 +42,11 @@
 
 <br/>
 
-<a href="https://github.com/giovananog" title="Perfil">
+<a href="https://github.com/giovananog" title="Profile">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovananog&theme=dracula&show_icons=true" />
 </a>
 
-## Onde me encontrar
+## Where to Find Me
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/giovana-nogueira-oliveira)](https://www.linkedin.com/in/giovana-nogueira-oliveira)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ongiovana2016@gmail.com)](mailto:ongiovana2016@gmail.com)
