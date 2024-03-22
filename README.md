@@ -23,6 +23,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![ShellScripting](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
 
 **Utilities**
 
