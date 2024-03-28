@@ -1,4 +1,4 @@
-<!-- ![](https://komarev.com/ghpvc/?username=giovananog&color=006bed) -->
+ ![](https://komarev.com/ghpvc/?username=giovananog&color=006bed) 
 
 ## About Me
 
