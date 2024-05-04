@@ -1,5 +1,3 @@
-<!--  ![](https://komarev.com/ghpvc/?username=giovananog&color=006bed) -->
-
 ## About Me
 
 - 🤔 Exploring new technologies and developing software solutions.
