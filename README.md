@@ -1,6 +1,4 @@
 ## About Me
-
-- 🤔 Exploring new technologies and developing software solutions.
 - 🎓 Studying Computer Science at the Federal University of Alfenas.
 
 ## My Skills
