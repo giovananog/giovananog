@@ -22,6 +22,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![Express](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
 
 <br/>
