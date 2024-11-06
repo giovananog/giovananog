@@ -23,6 +23,7 @@
 ![Express](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+![Elastic](https://img.shields.io/badge/-Elastic-333333?style=flat&logo=elastic)
 
 
 <br/>
