@@ -15,6 +15,7 @@
 ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
 ![Node](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=nodedotjs)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
 <br>
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
