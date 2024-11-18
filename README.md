@@ -1,41 +1,34 @@
-## About Me
-- 🎓 Studying Computer Science at the Federal University of Alfenas.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-## My Skills
+<p align="left"> 
+   Computer Science undergraduate at the Federal University of Alfenas, focused on enhancing my skills as a full-stack developer. I have knowledge on Java, C, C++, Python, JavaScript, HTML, CSS, TypeScript, and frameworks like Node.js, React, Flask, and Express. I am also familiar with databases such as MySQL, PostgreSQL, and MongoDB, as well as tools like Docker and Figma</p>
 
-**Applications and Data**
+<p dir="auto">📍 Minas Gerais, Brazil</p>
 
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
-![Node](https://img.shields.io/badge/-NodeJS-333333?style=flat&logo=nodedotjs)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
-<br>
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![Express](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-![Elastic](https://img.shields.io/badge/-Elastic-333333?style=flat&logo=elastic)
+<p align="left"><b>💻 Skills:</b></p>
+<p dir="auto"><a href="https://www.javascript.com" rel="nofollow"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="25" height="25" style="max-width: 100%;"></a>
+  <a href="https://www.typescriptlang.org" rel="nofollow"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/typescript.svg" alt="Typescript" width="25" height="25" style="max-width: 100%;"></a>
+  <a href="https://html.com/html5/" rel="nofollow"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/html5.svg" alt="HTML5" width="25" height="25" style="max-width: 100%;"></a>
+  <a href="https://css3.com" rel="nofollow"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/css3.svg" alt="CSS3" width="25" height="25" style="max-width: 100%;"></a>
+  <a href="https://reactjs.org" rel="nofollow"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/react.svg" alt="React" width="25" height="25" style="max-width: 100%;"></a>
+  <a href="https://java.org" rel="nofollow"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/python.svg" alt="Python" width="25" height="25" style="max-width: 100%;"></a>
+  <a href="http://tailwindcss.com" rel="nofollow"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/java.svg" alt="Java" width="25" height="25" style="max-width: 100%;"></a>
+  <a href="http://vitejs.dev/" rel="nofollow"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/postgresql.svg" alt="SQL" width="25" height="25" style="max-width: 100%;"></a>
+  <a href="https://nodejs.org" rel="nofollow"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/nodejs.svg" alt="NodeJS" width="25" height="25" style="max-width: 100%;"></a>
+  <a href="http://expressjs.com" rel="nofollow"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/express.svg" alt="Express" width="25" height="25" style="max-width: 100%;"></a>
+  <a href="https://graphql.org" rel="nofollow"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/mysql.svg" alt="MySQL" width="25" height="25" style="max-width: 100%;"></a>
+  <a href="http://prisma.io" rel="nofollow"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/c.svg" alt="C" width="25" height="25" style="max-width: 100%;"></a>
+<!--   <a href="http://prisma.io" rel="nofollow"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/cpp.svg" alt="C++" width="25" height="25" style="max-width: 100%;"></a> -->
+</p>
 
-
-<br/>
-
-<!-- <a href="http://github.com/giovananog" title="Profile"> -->
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=giovananog&theme=monokai)
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovananog&theme=dracula&show_icons=true" /> -->
-<!-- </a> -->
-
-## Where to Find Me
-
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/giovana-nogueira-oliveira)](https://www.linkedin.com/in/giovana-nogueira-oliveira)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ongiovana2016@gmail.com)](mailto:ongiovana2016@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/giovananog?label=follow&style=social)](https://github.com/giovananog)
+<p align="left"><b>🌐 Contact:</b></p>
+<p align="left">
+  <a href="mailto:giovana.nogueira@sou.unifal-mg.edu.br" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/giovana-nogueira-oliveira/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <a href="https://wa.me/" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
+  <a href="https://www.instagram.com/_giovananog/" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+</p>
