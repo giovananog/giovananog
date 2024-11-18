@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-   Computer Science undergraduate at the Federal University of Alfenas, focused on enhancing my skills as a full-stack developer. I have knowledge on Java, C, C++, Python, JavaScript, HTML, CSS, and frameworks like Node.js, React, Flask, and Express. I am also familiar with databases such as MySQL, PostgreSQL, and MongoDB, as well as tools like Docker and Figma</p>
+   Computer Science undergraduate at the Federal University of Alfenas, focused on enhancing my skills as a full-stack developer. I have knowledge on Java, C, C++, Python, JavaScript, HTML, CSS, and frameworks like Node.js, ReactJS, Flask, and Express. I am also familiar with databases such as MySQL, PostgreSQL, and MongoDB, as well as tools like Docker and Figma.</p>
 
 <p dir="auto">📍 Minas Gerais, Brazil</p>
 
