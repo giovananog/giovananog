@@ -18,7 +18,7 @@
   <a href="http://expressjs.com" rel="nofollow"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/express.svg" alt="Express" width="25" height="25" style="max-width: 100%;"></a>
   <a href="https://graphql.org" rel="nofollow"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/mysql.svg" alt="MySQL" width="25" height="25" style="max-width: 100%;"></a>
   <a href="http://prisma.io" rel="nofollow"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/c.svg" alt="C" width="25" height="25" style="max-width: 100%;"></a>
-<!--   <a href="http://prisma.io" rel="nofollow"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/cpp.svg" alt="C++" width="25" height="25" style="max-width: 100%;"></a> -->
+  <a href="http://prisma.io" rel="nofollow"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/cplus.svg" alt="C++" width="25" height="25" style="max-width: 100%;"></a>
 </p>
 
 <p align="left"><b>🌐 Contact:</b></p>
