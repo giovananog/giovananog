@@ -4,7 +4,7 @@
    Computer Science undergraduate at the Federal University of Alfenas, focused on enhancing my skills as a full-stack developer. 
 
 <br/>
-<p align="left"><b>💻 Skills:</b></p>
+<p align="left"><b>Skills:</b></p>
 <p dir="auto"><a href="https://www.javascript.com" rel="nofollow"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="25" height="25" style="max-width: 100%;"></a>
   <a href="https://www.typescriptlang.org" rel="nofollow"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/typescript.svg" alt="Typescript" width="25" height="25" style="max-width: 100%;"></a>
   <a href="https://html.com/html5/" rel="nofollow"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/html5.svg" alt="HTML5" width="25" height="25" style="max-width: 100%;"></a>
@@ -20,7 +20,7 @@
   <a href="http://prisma.io" rel="nofollow"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/cplus.svg" alt="C++" width="25" height="25" style="max-width: 100%;"></a>
 </p>
 
-<p align="left"><b>🌐 Contact:</b></p>
+<p align="left"><b>Contact:</b></p>
 <p align="left">
   <a href="mailto:giovana.nogueira@sou.unifal-mg.edu.br" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
