@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-   Computer Science undergraduate at the Federal University of Alfenas, focused on enhancing my skills as a full-stack developer. 
+   Computer Science undergraduate at the Federal University of Alfenas.
 
 <br/>
 <p align="left"><b>Skills:</b></p>
