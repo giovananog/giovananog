@@ -1,10 +1,14 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="illustration" width="320px" align="right" />
 
-<p align="left"> 
-   Computer Science undergraduate at the Federal University of Alfenas.
+### Hi there, I'm Giovana 👋
 
-<br/>
-<p align="left"><b>Skills:</b></p>
+- 🎓 **B.Sc. in Computer Science** — Federal University of Alfenas (UNIFAL-MG)
+- 🚀 **Software Engineer** 
+
+---
+
+#### 🛠 Skills & Technologies
+
 <p dir="auto"><a href="https://www.javascript.com" rel="nofollow"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="25" height="25" style="max-width: 100%;"></a>
   <a href="https://mui" rel="nofollow"><img src='https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/mui.svg'  alt="Typescript" width="25" height="25" style="max-width: 100%;"></a>
   <a href="https://html.com/html5/" rel="nofollow"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/html5.svg" alt="HTML5" width="25" height="25" style="max-width: 100%;"></a>
@@ -20,10 +24,15 @@
   <a href="http://prisma.io" rel="nofollow"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/cplus.svg" alt="C++" width="25" height="25" style="max-width: 100%;"></a>
 </p>
 
-<p align="left"><b>Contact:</b></p>
+---
+
+#### 📬 Connect with me
+
 <p align="left">
-  <a href="mailto:giovana.nogueira@sou.unifal-mg.edu.br" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/giovana-nogueira-oliveira/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/giovana-nog/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:giovananog.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-grey?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
